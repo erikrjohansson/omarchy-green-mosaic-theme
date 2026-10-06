@@ -11,7 +11,7 @@ A light theme for Omarchy with warm beige mosaic tiles, forest-green motifs, and
 For **Omarchy 4 with Omarchy Shell**:
 
 ```sh
-omarchy theme install https://github.com/ejuro/omarchy-green-mosaic-theme
+omarchy theme install https://github.com/erikrjohansson/omarchy-green-mosaic-theme
 ```
 
 ## The theme
