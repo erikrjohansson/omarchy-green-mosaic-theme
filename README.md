@@ -4,8 +4,6 @@ A light theme for Omarchy with warm beige mosaic tiles, forest-green motifs, and
 
 ![Green Mosaic — wordmark wallpaper](preview.png)
 
-![Green Mosaic — logo wallpaper](preview-logo.png)
-
 ## Install
 
 For **Omarchy 4 with Omarchy Shell**:
