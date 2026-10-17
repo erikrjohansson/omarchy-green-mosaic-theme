@@ -2,9 +2,9 @@
 
 A light theme for Omarchy with warm beige mosaic tiles, forest-green motifs, and a matching interface palette.
 
-![Green Mosaic — logo wallpaper](preview.png)
+![Green Mosaic — wordmark wallpaper](preview.png)
 
-![Green Mosaic — wordmark wallpaper](preview-wordmark.png)
+![Green Mosaic — logo wallpaper](preview-logo.png)
 
 ## Install
 
@@ -17,15 +17,15 @@ omarchy theme install https://github.com/erikrjohansson/omarchy-green-mosaic-the
 ## The theme
 
 - A continuous mosaic floor with two Omarchy motifs: logo and wordmark.
-- A transparent top bar that blends into the tiled background.
+- A top bar that follows your Omarchy bar setting: transparent, it blends into the tiled background; solid, it matches the windows.
 - Solid, warm ivory windows and menus with green accents and sage borders.
-- A forest-green terminal palette and Adwaita icons.
+- A forest-green terminal palette and sage Yaru folder icons.
 
 ## Wallpapers
 
 Two **3840 × 2160** wallpapers are included.
 
-[Logo](backgrounds/01-green-mosaic-logo-4k.png) · [Wordmark](backgrounds/02-green-mosaic-wordmark-4k.png)
+[Wordmark](backgrounds/01-green-mosaic-wordmark-4k.png) · [Logo](backgrounds/02-green-mosaic-logo-4k.png)
 
 ## License
 
